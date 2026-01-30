@@ -105,6 +105,7 @@ data-dependent
 | **Whispering Experts: Neural Interventions for Toxicity Mitigation in Language Models** | Neuron | Magnitude Analysis | Amplitude Manipulation | ICML | 2024 | [Link](https://openreview.net/forum?id=2P6GVfSrfZ) |
 | **H-Neurons: On the Existence, Impact, and Origin of Hallucination-Associated Neurons in LLMs** | Neuron | Magnitude Analysis | Amplitude Manipulation | ArXiv | 2025 | [Link](https://arxiv.org/abs/2512.01797) |
 | **Understanding and Enhancing Safety Mechanisms of LLMs via Safety-Specific Neuron** | Neuron | Magnitude Analysis | Targeted Optimization | ICLR | 2025 | [Link](https://openreview.net/forum?id=yR47RmND1m) |
+| **Neuron-Aware Data Selection in Instruction Tuning for Large Language Models** | Neuron | Magnitude Analysis | - | ICLR | 2026 | [Link](https://openreview.net/forum?id=uq6UWRgzMr) |
 | **Precision Knowledge Editing: Enhancing Safety in Large Language Models** | Neuron | Magnitude Analysis | Targeted Optimization | ArXiv | 2025 | [Link](https://arxiv.org/abs/2410.03772) |
 | **Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet** | SAE Feature | Magnitude Analysis | Amplitude Manipulation | Blog | 2024 | [Link](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) |
 | **Breaking Bad Tokens: Detoxification of LLMs Using Sparse Autoencoders** | SAE Feature | Magnitude Analysis | Amplitude Manipulation | EMNLP | 2025 | [Link](https://aclanthology.org/2025.emnlp-main.641/) |
